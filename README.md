@@ -14,7 +14,7 @@ YouTube Video Downloader in Python using tkinter and pytube Library.
 
 5. Run `python main.py` from the repository's directory
 
-6. Copy and YouTube video url and paste then press download.
+6. Copy YouTube video url and paste, then press download.
 
 7. When Download have been done check your file folder, You can get your video.
 
